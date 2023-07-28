@@ -2,3 +2,8 @@
 Portfolio/archetypes/default.md
 Portfolio/hugo.toml
 themes/m10c/
+Portfolio/.hugo_build.lock
+Portfolio/content/about.md
+Portfolio/hugo.toml.bak
+Portfolio/content/about.md.bak
+Portfolio/themes/m10c/
